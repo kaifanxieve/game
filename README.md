@@ -6,8 +6,6 @@ Extracted and compiled from Hearts of Iron IV, covering all country ideas in bot
 
 - all_ideas_prefixed_CN.txt — Chinese version with idea ID, Chinese name, Chinese effect description, prefixed with add_ideas
 - all_ideas_prefixed_EN.txt — English version with idea ID and raw effect keys, prefixed with add_ideas
-- all_ideas_translated.txt  — Full Chinese translated version (no prefix)
-- all_ideas_complete.txt    — Full English raw version (no prefix)
 
 ## Usage
 
@@ -36,8 +34,7 @@ Copy and paste any line directly into the HOI4 console to apply the idea.
 
 - all_ideas_prefixed_CN.txt — 中文版，含精神ID、中文名称、中文效果描述，每行带 add_ideas 前缀
 - all_ideas_prefixed_EN.txt — 英文版，含精神ID、原始效果key，每行带 add_ideas 前缀
-- all_ideas_translated.txt  — 中文翻译完整版（无前缀）
-- all_ideas_complete.txt    — 英文原始完整版（无前缀）
+
 
 ## 使用方法
 
